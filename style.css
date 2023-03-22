@@ -1,5 +1,5 @@
 body{
-	background: url('../images/background-2.png');
+	background: url('background-2.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
@@ -22,27 +22,27 @@ body{
 }
 
 .red-trash{
-	content: url(../images/test.webp);
+	content: url(test.webp);
 	width: 67px;
 	height: 79px;
 }
 .yellow-trash{
-	content: url(../images/test.webp);
+	content: url(test.webp);
 	width: 155px;
 	height: 200px;
 }
 .blue-trash{
-	content: url(../images/test.webp);
+	content: url(test.webp);
 	width: 81px;
 	height: 110px;
 }
 .black-trash{
-	content: url(../images/test.webp);
+	content: url(test.webp);
 	width: 154px;
 	height: 180px;
 }
 .green-trash{
-	content: url(../images/test.webp);
+	content: url(test.webp);
 	width: 82px;
 	height: 110px;
 }
