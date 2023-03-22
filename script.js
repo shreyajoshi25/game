@@ -49,7 +49,7 @@ function deleteTrash(elem){
 
 function playBallSound(){
 	let audio=document.createElement('audio');
-	audio.src='sounds/pop.mp3';
+	audio.src='pop.mp3';
 	audio.play();
 }
 
