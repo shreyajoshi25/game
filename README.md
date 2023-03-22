@@ -1,0 +1,2 @@
+# game
+trash collect game
